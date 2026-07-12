@@ -1,0 +1,221 @@
+2026-07-08 19:37:28,821 | INFO | ========================================
+2026-07-08 19:37:28,822 | INFO | RIO AI FUTURES
+2026-07-08 19:37:28,822 | INFO | Initializing Database...
+2026-07-08 19:37:28,842 | INFO | Database Ready
+2026-07-08 19:37:28,842 | INFO | Logger Ready
+2026-07-08 19:37:28,842 | INFO | BOT READY
+2026-07-08 20:33:26,396 | INFO | Configuration Loaded
+2026-07-08 20:33:26,397 | INFO | Initializing Database...
+2026-07-08 20:33:26,409 | INFO | Database Ready
+2026-07-08 20:33:26,410 | INFO | Logger Ready
+2026-07-08 20:33:26,410 | INFO | BOT READY
+2026-07-08 21:43:56,985 | INFO | Loading Configuration...
+2026-07-08 21:43:56,986 | INFO | Initializing Database...
+2026-07-08 21:43:56,996 | INFO | Database Ready
+2026-07-08 21:43:56,996 | INFO | Logger Ready
+2026-07-08 21:43:56,997 | INFO | Connecting Binance...
+2026-07-08 21:43:57,310 | ERROR | Binance Error : ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-07-08 21:43:57,310 | INFO | Loading Discord...
+2026-07-08 21:43:57,311 | INFO | Discord Ready
+2026-07-08 21:43:57,311 | INFO | ============================================================
+2026-07-08 21:43:57,311 | INFO | RIO AI FUTURES IS ONLINE
+2026-07-08 21:43:57,311 | INFO | ============================================================
+2026-07-08 21:52:15,157 | INFO | Loading Configuration...
+2026-07-08 21:52:15,158 | INFO | Initializing Database...
+2026-07-08 21:52:15,166 | INFO | Database Ready
+2026-07-08 21:52:15,166 | INFO | Logger Ready
+2026-07-08 21:52:15,167 | INFO | Connecting Binance...
+2026-07-08 21:52:15,832 | INFO | Binance Connected
+2026-07-08 21:52:15,832 | INFO | Loading Futures Account...
+2026-07-08 21:52:16,467 | INFO | Futures Account Ready
+2026-07-08 21:52:16,911 | INFO | BTCUSDT Price : 61732.90
+2026-07-08 21:52:16,912 | INFO | Loading Discord...
+2026-07-08 21:52:16,912 | INFO | Discord Ready
+2026-07-08 21:52:16,913 | INFO | ============================================================
+2026-07-08 21:52:16,913 | INFO | RIO AI FUTURES IS ONLINE
+2026-07-08 21:52:16,913 | INFO | ============================================================
+2026-07-08 22:15:51,144 | INFO | Loading Configuration...
+2026-07-08 22:15:51,145 | INFO | Initializing Database...
+2026-07-08 22:15:51,153 | INFO | Database Ready
+2026-07-08 22:15:51,154 | INFO | Logger Ready
+2026-07-08 22:15:51,154 | INFO | Connecting Binance...
+2026-07-08 22:15:51,886 | INFO | Binance Connected
+2026-07-08 22:15:51,887 | INFO | Loading Futures Account...
+2026-07-08 22:15:52,687 | INFO | Futures Account Ready
+2026-07-08 22:15:53,260 | INFO | BTCUSDT Price : 62102.40
+2026-07-08 22:15:53,475 | INFO |             open_time     open     high      low    close  ...      quote_volume  trade_count taker_buy_base   taker_buy_quote ignore
+5 2026-07-08 14:11:00  61962.5  61996.5  61962.5  61962.5  ...     472247.743270          471         3.9966     247775.208030      0
+6 2026-07-08 14:12:00  61962.5  62031.1  61962.5  62022.7  ...  245958256.079200          746       185.4343   11501176.998080      0
+7 2026-07-08 14:13:00  62021.5  62104.5  62021.5  62104.5  ...  449451042.743620         1584      7230.7224  448941443.024610      0
+8 2026-07-08 14:14:00  62104.5  62105.9  62050.6  62050.6  ...   32031181.879090          516       509.9130   31668100.640360      0
+9 2026-07-08 14:15:00  62075.9  62105.9  62020.8  62044.2  ...   30982223.527640          627        16.7676    1041344.381670      0
+
+[5 rows x 12 columns]
+2026-07-08 22:15:53,524 | ERROR | Binance Error : API Secret required for private endpoints
+2026-07-08 22:15:53,524 | INFO | Loading Discord...
+2026-07-08 22:23:16,592 | INFO | Loading Configuration...
+2026-07-08 22:23:16,592 | INFO | Initializing Database...
+2026-07-08 22:23:16,596 | INFO | Database Ready
+2026-07-08 22:23:16,596 | INFO | Logger Ready
+2026-07-08 22:23:16,597 | INFO | Connecting Binance...
+2026-07-08 22:23:17,263 | INFO | Binance Connected
+2026-07-08 22:23:17,264 | INFO | Loading Futures Account...
+2026-07-08 22:23:18,261 | INFO | Futures Account Ready
+2026-07-08 22:23:18,666 | INFO | BTCUSDT Price : 62106.00
+2026-07-08 22:23:18,889 | INFO |               open_time     open     high      low    close  ...     quote_volume  trade_count taker_buy_base  taker_buy_quote ignore
+195 2026-07-08 14:19:00  61932.0  61934.6  61932.0  61934.6  ...    663993.518500          299         3.1385    194381.742100      0
+196 2026-07-08 14:20:00  61932.0  62104.5  61932.0  62104.5  ...   2192792.661350          485         9.0476    560938.679970      0
+197 2026-07-08 14:21:00  62049.3  62106.0  61982.1  62106.0  ...  72293386.353080          566      1155.0692  71736688.834930      0
+198 2026-07-08 14:22:00  62080.0  62106.0  62080.0  62092.7  ...    775780.907540          294         7.9617    494469.047870      0
+199 2026-07-08 14:23:00  62106.0  62106.0  62092.7  62092.7  ...    107142.653920           58         1.0591     65776.428600      0
+
+[5 rows x 12 columns]
+2026-07-08 22:23:18,928 | WARNING | Wallet Check Skip : API Secret required for private endpoints
+2026-07-08 22:23:18,929 | ERROR | Binance Error : cannot access local variable 'balance' where it is not associated with a value
+2026-07-08 22:23:18,929 | INFO | Loading Discord...
+2026-07-08 22:23:18,958 | INFO | {'ema20': np.float64(62004.79125731278), 'ema50': np.float64(61964.68223286761), 'rsi': np.float64(61.950584615078355), 'macd': np.float64(41.41407537383202), 'macd_signal': np.float64(32.748475187497945), 'atr': np.float64(72.32594390751287), 'adx': np.float64(26.448969139946644), 'bb_high': np.float64(62130.06874908522), 'bb_low': np.float64(61882.49125091479), 'bb_mid': np.float64(62006.280000000006)}
+2026-07-08 22:23:18,976 | INFO | {'signal': 'LONG', 'score': 3}
+2026-07-08 22:23:18,976 | INFO | Discord Ready
+2026-07-08 22:23:18,977 | INFO | ============================================================
+2026-07-08 22:23:18,977 | INFO | RIO AI FUTURES IS ONLINE
+2026-07-08 22:23:18,977 | INFO | ============================================================
+2026-07-08 22:28:23,727 | INFO | Loading Configuration...
+2026-07-08 22:28:23,727 | INFO | Initializing Database...
+2026-07-08 22:28:23,730 | INFO | Database Ready
+2026-07-08 22:28:23,731 | INFO | Logger Ready
+2026-07-08 22:28:23,731 | INFO | Connecting Binance...
+2026-07-08 22:28:24,332 | INFO | Binance Connected
+2026-07-08 22:28:24,332 | INFO | Loading Futures Account...
+2026-07-08 22:28:25,016 | INFO | Futures Account Ready
+2026-07-08 22:28:25,375 | INFO | BTCUSDT Price : 62041.10
+2026-07-08 22:28:25,577 | INFO |               open_time     open     high      low    close  ...      quote_volume  trade_count taker_buy_base  taker_buy_quote ignore
+195 2026-07-08 14:24:00  62081.6  62102.5  62041.1  62041.1  ...  529991625.128250          602        43.8221   2720149.026750      0
+196 2026-07-08 14:25:00  62041.1  62102.7  62041.1  62102.7  ...    3345420.029170          300        51.0367   3169086.788570      0
+197 2026-07-08 14:26:00  62102.7  62104.2  62041.1  62041.1  ...    7001054.025700          347        28.8924   1793478.304020      0
+198 2026-07-08 14:27:00  62054.5  62068.4  62034.4  62041.1  ...   52171213.837290          343        18.5451   1150715.900450      0
+199 2026-07-08 14:28:00  62035.0  62041.1  62008.7  62008.7  ...   50122271.666020          146         0.4390     27236.007250      0
+
+[5 rows x 12 columns]
+2026-07-08 22:28:25,623 | WARNING | Wallet Check Skip : API Secret required for private endpoints
+2026-07-08 22:28:25,623 | INFO | Loading Discord...
+2026-07-08 22:28:25,643 | INFO | {'ema20': np.float64(62020.91201252733), 'ema50': np.float64(61979.71962939642), 'rsi': np.float64(50.26928316396458), 'macd': np.float64(30.25683691797167), 'macd_signal': np.float64(35.09226609417217), 'atr': np.float64(65.71757629232884), 'adx': np.float64(24.63786285937046), 'bb_high': np.float64(62148.73706610863), 'bb_low': np.float64(61904.65293389135), 'bb_mid': np.float64(62026.69499999999)}
+2026-07-08 22:28:25,661 | INFO | {'signal': 'LONG', 'score': 3}
+2026-07-08 22:28:25,662 | INFO | Discord Ready
+2026-07-08 22:28:25,662 | INFO | ============================================================
+2026-07-08 22:28:25,663 | INFO | RIO AI FUTURES IS ONLINE
+2026-07-08 22:28:25,663 | INFO | ============================================================
+2026-07-08 22:35:19,204 | INFO | Loading Configuration...
+2026-07-08 22:35:19,205 | INFO | Initializing Database...
+2026-07-08 22:35:19,214 | INFO | Database Ready
+2026-07-08 22:35:19,214 | INFO | Logger Ready
+2026-07-08 22:35:19,215 | INFO | Connecting Binance...
+2026-07-08 22:35:20,086 | INFO | Binance Connected
+2026-07-08 22:35:20,086 | INFO | Loading Futures Account...
+2026-07-08 22:35:20,955 | INFO | Futures Account Ready
+2026-07-08 22:35:21,710 | INFO | BTCUSDT Price : 61908.10
+2026-07-08 22:35:21,958 | INFO |               open_time     open     high      low    close  ...      quote_volume  trade_count taker_buy_base   taker_buy_quote ignore
+195 2026-07-08 14:31:00  62020.6  62027.3  61937.9  61937.9  ...   60434354.033730          487         5.4305     336816.055950      0
+196 2026-07-08 14:32:00  62027.3  62027.3  61897.0  61897.0  ...  440445766.524880         1262         5.1014     316377.702180      0
+197 2026-07-08 14:33:00  61897.0  61898.7  61892.9  61892.9  ...  150327496.201710          445        28.3029    1751912.715030      0
+198 2026-07-08 14:34:00  61898.7  61908.1  61892.9  61892.9  ...  207307246.380480          370      3307.7777  204768633.243910      0
+199 2026-07-08 14:35:00  61908.1  61908.1  61892.9  61908.1  ...    1440734.327910           73        11.2391     695791.320710      0
+
+[5 rows x 12 columns]
+2026-07-08 22:35:22,011 | WARNING | Wallet Check Skip : API Secret required for private endpoints
+2026-07-08 22:35:22,011 | INFO | Loading Discord...
+2026-07-08 22:35:22,038 | INFO | {'market_regime': 'VOLATILE'}
+2026-07-08 22:35:22,039 | INFO | {'ema20': np.float64(61971.28876740799), 'ema50': np.float64(61966.72813983512), 'rsi': np.float64(41.42505824620739), 'macd': np.float64(-17.442198814227595), 'macd_signal': np.float64(4.0809523481598315), 'atr': np.float64(59.628483007551914), 'adx': np.float64(21.36082589942328), 'bb_high': np.float64(62150.742189959565), 'bb_low': np.float64(61838.82781004043), 'bb_mid': np.float64(61994.784999999996), 'volume': np.float64(23.2751), 'volume_ratio': np.float64(0.013086429150994047), 'volume_status': 'LOW'}
+2026-07-08 22:35:22,056 | INFO | {'signal': 'WAIT', 'score': -1}
+2026-07-08 22:35:22,056 | INFO | Discord Ready
+2026-07-08 22:35:22,056 | INFO | ============================================================
+2026-07-08 22:35:22,056 | INFO | RIO AI FUTURES IS ONLINE
+2026-07-08 22:35:22,057 | INFO | ============================================================
+2026-07-09 12:12:01,546 | INFO | Loading Configuration...
+2026-07-09 12:12:01,547 | INFO | Initializing Database...
+2026-07-09 12:12:01,560 | INFO | Database Ready
+2026-07-09 12:12:01,561 | INFO | Logger Ready
+2026-07-09 12:12:01,561 | INFO | Connecting Binance...
+2026-07-09 12:12:12,731 | ERROR | Binance Error : HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NameResolutionError("HTTPSConnection(host='api.binance.com', port=443): Failed to resolve 'api.binance.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-09 12:12:12,731 | INFO | Loading Discord...
+2026-07-09 13:18:07,961 | INFO | Loading Configuration...
+2026-07-09 13:18:07,962 | INFO | Initializing Database...
+2026-07-09 13:18:07,970 | INFO | Database Ready
+2026-07-09 13:18:07,970 | INFO | Logger Ready
+2026-07-09 13:18:07,970 | INFO | Connecting Binance...
+2026-07-09 13:18:16,197 | ERROR | Binance Error : HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError("HTTPSConnection(host='api.binance.com', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-07-09 13:18:16,199 | WARNING | Wallet Check Skip : cannot access local variable 'balance' where it is not associated with a value
+2026-07-09 13:18:16,199 | INFO | Loading Market Data...
+2026-07-09 13:18:16,199 | ERROR | Market Data Error : cannot access local variable 'market' where it is not associated with a value
+2026-07-09 13:21:24,410 | INFO | Loading Configuration...
+2026-07-09 13:21:24,412 | INFO | Initializing Database...
+2026-07-09 13:21:24,426 | INFO | Database Ready
+2026-07-09 13:21:24,426 | INFO | Logger Ready
+2026-07-09 13:21:24,426 | INFO | Connecting Binance...
+2026-07-09 13:21:25,189 | INFO | Binance Connected
+2026-07-09 13:21:25,189 | INFO | Loading Futures Account...
+2026-07-09 13:21:25,821 | INFO | Futures Account Ready
+2026-07-09 13:21:26,262 | INFO | BTCUSDT Price : 62345.60
+2026-07-09 13:21:26,263 | ERROR | Binance Error : API Secret required for private endpoints
+2026-07-09 13:21:26,263 | WARNING | Wallet Check Skip : cannot access local variable 'balance' where it is not associated with a value
+2026-07-09 13:21:26,263 | INFO | Loading Market Data...
+2026-07-09 13:21:26,445 | INFO |               open_time     open     high      low    close  ...      quote_volume  trade_count taker_buy_base  taker_buy_quote ignore
+195 2026-07-09 05:17:00  62477.7  62489.0  62476.1  62489.0  ...     582877.119340          202         5.0563    315913.920300      0
+196 2026-07-09 05:18:00  62489.0  62489.0  62473.2  62473.2  ...     141526.562300          188         0.8627     53909.208640      0
+197 2026-07-09 05:19:00  62473.2  62489.5  62450.8  62450.8  ...   20266466.493600          284         3.1904    199346.001560      0
+198 2026-07-09 05:20:00  62451.7  62489.5  62371.3  62382.5  ...  300750752.821040          547         4.6097    288054.445880      0
+199 2026-07-09 05:21:00  62382.5  62400.0  62346.5  62346.5  ...  107494903.079020          237         4.0178    250498.632960      0
+
+[5 rows x 12 columns]
+2026-07-09 13:21:26,506 | INFO | {'ema20': np.float64(62417.3490862004), 'ema50': np.float64(62331.157216594685), 'rsi': np.float64(39.41992337932065), 'macd': np.float64(26.01856144487101), 'macd_signal': np.float64(42.537730583301276), 'atr': np.float64(35.30880750872883), 'adx': np.float64(67.69472940980545), 'bb_high': np.float64(62522.87789418597), 'bb_low': np.float64(62326.79210581403), 'bb_mid': np.float64(62424.835), 'volume': np.float64(1723.777), 'volume_ratio': np.float64(1.2237185706473968), 'volume_status': 'NORMAL'}
+2026-07-09 13:21:26,507 | INFO | Loading Discord...
+2026-07-09 13:21:26,520 | INFO | {'market_regime': 'TRENDING'}
+2026-07-09 13:21:26,521 | INFO | {'ema20': np.float64(62417.3490862004), 'ema50': np.float64(62331.157216594685), 'rsi': np.float64(39.41992337932065), 'macd': np.float64(26.01856144487101), 'macd_signal': np.float64(42.537730583301276), 'atr': np.float64(35.30880750872883), 'adx': np.float64(67.69472940980545), 'bb_high': np.float64(62522.87789418597), 'bb_low': np.float64(62326.79210581403), 'bb_mid': np.float64(62424.835), 'volume': np.float64(1723.777), 'volume_ratio': np.float64(1.2237185706473968), 'volume_status': 'NORMAL'}
+2026-07-09 13:21:26,536 | INFO | {'signal': 'WAIT', 'score': 1}
+2026-07-09 13:21:26,537 | INFO | Discord Ready
+2026-07-09 13:34:07,503 | INFO | Loading Configuration...
+2026-07-09 13:34:07,504 | INFO | Initializing Database...
+2026-07-09 13:34:07,523 | INFO | Database Ready
+2026-07-09 13:34:07,524 | INFO | Logger Ready
+2026-07-09 13:34:07,524 | INFO | Connecting Binance...
+2026-07-09 13:34:08,143 | INFO | Binance Connected
+2026-07-09 13:34:08,144 | INFO | Loading Futures Account...
+2026-07-09 13:34:08,794 | INFO | Futures Account Ready
+2026-07-09 13:34:09,236 | INFO | BTCUSDT Price : 62223.00
+2026-07-09 13:34:09,236 | WARNING | Wallet Check Skip : API Secret required for private endpoints
+2026-07-09 13:34:09,237 | INFO | Loading Market Data...
+2026-07-09 13:34:09,424 | INFO |               open_time     open     high      low    close  ...      quote_volume  trade_count taker_buy_base  taker_buy_quote ignore
+195 2026-07-09 05:30:00  62275.0  62275.4  62257.3  62257.3  ...   16223036.559290          234         1.5640     97389.006060      0
+196 2026-07-09 05:31:00  62257.3  62263.9  62254.4  62254.4  ...  151223749.250950          406         0.0138       859.241820      0
+197 2026-07-09 05:32:00  62254.4  62263.9  62216.2  62216.2  ...  599535851.828750          699         3.7095    230967.466390      0
+198 2026-07-09 05:33:00  62216.2  62216.5  62214.9  62216.5  ...   55888341.810710          218         4.2122    262066.249770      0
+199 2026-07-09 05:34:00  62216.5  62216.5  62216.5  62216.5  ...         80.881450            1         0.0013        80.881450      0
+
+[5 rows x 12 columns]
+2026-07-09 13:34:09,499 | INFO | {'ema20': np.float64(62296.41164845554), 'ema50': np.float64(62300.815106517424), 'rsi': np.float64(27.074249789696736), 'macd': np.float64(-41.533536466136866), 'macd_signal': np.float64(-28.193607881378895), 'atr': np.float64(25.29675588919699), 'adx': np.float64(51.398057973468745), 'bb_high': np.float64(62514.41485548194), 'bb_low': np.float64(62133.66514451806), 'bb_mid': np.float64(62324.04), 'volume': np.float64(0.0013), 'volume_ratio': np.float64(7.70860036653861e-07), 'volume_status': 'LOW'}
+2026-07-09 13:34:09,500 | INFO | Loading Discord...
+2026-07-09 13:34:09,514 | INFO | {'market_regime': 'TRENDING'}
+2026-07-09 13:34:09,514 | INFO | {'ema20': np.float64(62296.41164845554), 'ema50': np.float64(62300.815106517424), 'rsi': np.float64(27.074249789696736), 'macd': np.float64(-41.533536466136866), 'macd_signal': np.float64(-28.193607881378895), 'atr': np.float64(25.29675588919699), 'adx': np.float64(51.398057973468745), 'bb_high': np.float64(62514.41485548194), 'bb_low': np.float64(62133.66514451806), 'bb_mid': np.float64(62324.04), 'volume': np.float64(0.0013), 'volume_ratio': np.float64(7.70860036653861e-07), 'volume_status': 'LOW'}
+2026-07-09 13:34:09,527 | INFO | {'signal': 'SHORT', 'score': -3}
+2026-07-09 13:34:09,527 | INFO | Discord Ready
+2026-07-09 13:34:09,539 | INFO | {'trade': 0, 'win_rate': 0}
+2026-07-09 13:34:09,540 | INFO | ============================================================
+2026-07-09 13:34:09,540 | INFO | RIO AI FUTURES IS ONLINE
+2026-07-09 13:34:09,540 | INFO | ============================================================
+2026-07-09 14:44:49,657 | INFO | Loading Configuration...
+2026-07-09 14:44:49,658 | INFO | Initializing Database...
+2026-07-09 14:44:49,669 | INFO | Database Ready
+2026-07-09 14:44:49,669 | INFO | Logger Ready
+2026-07-09 14:44:49,669 | INFO | Connecting Binance...
+2026-07-09 14:44:55,150 | ERROR | Binance Error : HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError("HTTPSConnection(host='api.binance.com', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-07-09 14:44:55,150 | WARNING | Wallet Check Skip : cannot access local variable 'account' where it is not associated with a value
+2026-07-09 14:44:55,150 | INFO | Loading Market Data...
+2026-07-09 14:44:55,151 | ERROR | Market Data Error : cannot access local variable 'market' where it is not associated with a value
+2026-07-09 14:45:25,157 | INFO | Loading Configuration...
+2026-07-09 14:45:25,157 | INFO | Initializing Database...
+2026-07-09 14:45:25,159 | INFO | Database Ready
+2026-07-09 14:45:25,160 | INFO | Logger Ready
+2026-07-09 14:45:25,160 | INFO | Connecting Binance...
+2026-07-09 14:45:30,273 | ERROR | Binance Error : HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError("HTTPSConnection(host='api.binance.com', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-07-09 14:45:30,273 | WARNING | Wallet Check Skip : cannot access local variable 'account' where it is not associated with a value
+2026-07-09 14:45:30,273 | INFO | Loading Market Data...
+2026-07-09 14:45:30,273 | ERROR | Market Data Error : cannot access local variable 'market' where it is not associated with a value
